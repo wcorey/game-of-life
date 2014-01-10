@@ -1,16 +1,16 @@
 <?xml version="1.1" encoding="UTF-8"?>
-<testsuite name="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" tests="11" failures="0" errors="0" timestamp="2014-01-09T23:22:29" hostname="cor720" time="0.013">
+<testsuite name="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" tests="11" failures="0" errors="0" timestamp="2014-01-10T01:36:05" hostname="cor720" time="0.012">
   <properties/>
-  <testcase name="aNewUniverseShouldContainOnlyDeadCells" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.002"/>
+  <testcase name="aNewUniverseShouldContainOnlyDeadCells" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.001"/>
   <testcase name="aUniverseSeededWithAnEmpyGridContentWillContainAnEmptyGrid" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.0"/>
   <testcase name="aUniverseCanBeInitializedWithAnyDimension" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.0"/>
   <testcase name="aUserCanAssignALiveCellAtAGivenPointInTheGrid" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.0"/>
   <testcase name="aUniverseSeededWithAGridContainingASingleLiveCellContentWillSpawnAnEmptyGrid" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.0"/>
   <testcase name="aUniverseSeededWithAGridWithLivingCellsContentWillContainThatGrid" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.0"/>
-  <testcase name="aUniverseSpawnsANewGridInTheNextGeneration" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.001"/>
+  <testcase name="aUniverseSpawnsANewGridInTheNextGeneration" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.0"/>
   <testcase name="aUserCanAssignADeadCellAtAGivenPointInTheGrid" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.0"/>
-  <testcase name="aUserCanReadALiveCellValueAtAGivenPointInTheGrid" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.0"/>
-  <testcase name="aUserCanReadADeadCellValueAtAGivenPointInTheGrid" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.0"/>
+  <testcase name="aUserCanReadALiveCellValueAtAGivenPointInTheGrid" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.001"/>
+  <testcase name="aUserCanReadADeadCellValueAtAGivenPointInTheGrid" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.001"/>
   <testcase name="aUserCanObtainTheGridContentsAsAnArrayOfCells" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
